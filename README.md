@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthan-sulthan&label=Profile%20views&color=0e75b6&style=flat" alt="sulthan-sulthan" /> </p>
 
-- 🌱 I’m currently Working FastApi ****
+- 🌱 I’m currently Working in FastApi 
 
 - 📫 How to reach me **sulthan.netlify.app**
 
