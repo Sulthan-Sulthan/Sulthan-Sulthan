@@ -11,7 +11,7 @@
 - 📫 How to reach me **sulthan.netlify.app**
 
 - ⚡ Fun fact **🙌✌️**
-<style> #link1 { text-decoration: none; } </style>
+<style> .link1 { text-decoration: none; } </style>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sulthanul-faris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sulthanul-faris-a35b9a233" height="30" width="40" /></a>
