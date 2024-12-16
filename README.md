@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sulthanul Faris</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Junior Software Engineer at RAASOFT</h3>
 
 <img align="right" alt ="coding" width ="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthan-sulthan&label=Profile%20views&color=0e75b6&style=flat" alt="sulthan-sulthan" /> </p>
 
-- 🌱 I’m currently Working in FastApi 
 
 - 📫 How to reach me **sulthan.netlify.app**
 
-- ⚡ Fun fact **🙌✌️**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
